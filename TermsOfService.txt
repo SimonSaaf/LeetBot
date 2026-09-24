@@ -1,0 +1,58 @@
+Terms of Service
+
+Last updated: September 25, 2026
+
+These Terms of Service ("Terms") govern the use of LeetBot ("the Bot") on Discord.
+By using our instance of the Bot, you agree to these Terms.
+
+1. Use of the Bot
+The Bot is provided as a Discord bot that detects messages containing the word "leet" and awards points according to its configured point system.
+You agree to use the Bot only for lawful purposes and in accordance with Discord's Terms of Service and applicable rules.
+
+2. Availability
+The Bot is provided on an "as is" and "as available" basis.
+We do not guarantee that the Bot will always be available, operate without errors, or retain points or other data indefinitely.
+The Bot may be modified, temporarily unavailable, or discontinued at any time.
+
+3. Points and Data
+Points earned through the Bot have no monetary value and do not represent currency, property, or any other form of financial asset.
+We may reset, modify, or remove points if necessary, including in response to technical issues, abuse, or changes to the Bot.
+
+4. Acceptable Use
+You must not use the Bot to:
+Abuse, exploit, or intentionally interfere with the Bot.
+Attempt to gain points through technical manipulation or exploitation of bugs.
+Use the Bot for unlawful activities.
+Attempt to access data belonging to other users.
+Interfere with the operation or infrastructure of the Bot.
+
+5. Discord
+The Bot operates through Discord and is subject to Discord's platform rules and policies.
+Your use of Discord is governed separately by Discord's own Terms of Service and policies.
+We are not affiliated with or endorsed by Discord.
+
+6. Open-Source Software and Self-Hosted Instances
+The Bot's source code may be publicly available and may be downloaded, modified, and self-hosted by other individuals or organizations.
+These Terms apply only to the instance of the Bot operated by us.
+If you download, modify, or operate your own instance of the Bot, you are responsible for that instance, including its operation, users, data processing, and compliance with applicable laws and regulations.
+The operator of an independently hosted instance may establish their own terms and conditions for their instance.
+
+7. Changes to the Bot
+We may modify, update, or discontinue features of the Bot at any time.
+Changes may include modifications to the point system, commands, functionality, or data storage practices.
+If a change significantly affects how user data is handled, the Privacy Policy will be updated accordingly.
+
+8. Limitation of Liability
+To the extent permitted by applicable law, we are not responsible for losses or damages resulting from the use of, inability to use, interruption of, or loss of data associated with the Bot.
+This includes, but is not limited to, loss of points, temporary unavailability, bugs, or technical failures.
+Nothing in these Terms excludes or limits liability where such exclusion or limitation is not permitted by applicable law.
+
+9. Termination
+We may restrict or terminate access to our instance of the Bot at any time, including in response to abuse, misuse, or violations of these Terms.
+
+10. Changes to These Terms
+We may update these Terms from time to time. Changes will be reflected on this page along with an updated "Last updated" date.
+Continued use of our instance of the Bot after changes are published constitutes acceptance of the updated Terms, to the extent permitted by applicable law.
+
+11. Contact
+Questions regarding these Terms may be directed to the administrator or owner of the Discord server where the Bot is being used.

@@ -1,0 +1,39 @@
+[Privacy Policy]
+
+Last updated: September 25, 2026
+This Privacy Policy applies only to the instance of "LeetBot" operated by the maintainer of this repository.
+Information We Collect
+
+Our instance of the Bot stores:
+Discord User IDs
+The number of points associated with each Discord User ID
+The Bot temporarily processes message content to determine whether a message contains the word "leet". Message content is not stored.
+
+How We Use Your Information:
+Discord User IDs and point totals are used solely to operate the Bot's point system.
+Message content is processed solely to determine whether a user has sent "leet" and should receive a point.
+
+Data Storage:
+The data collected by our instance is stored on infrastructure controlled by the Bot's operator.
+We do not intentionally store the content of messages processed by the Bot.
+
+Open-Source and Self-Hosted Instances:
+The Bot is open-source software and may be downloaded, modified, and self-hosted by other individuals or organizations.
+This Privacy Policy does not apply to independently operated instances of the Bot.
+Anyone who downloads or modifies the Bot and operates their own instance is responsible for determining what data their instance processes or stores and for complying with any applicable privacy and data-protection laws.
+The operator of an independently hosted instance is responsible for providing their own privacy policy and handling requests concerning data processed by that instance.
+
+Data Deletion:
+For the instance covered by this Privacy Policy, users may request deletion of data associated with their Discord User ID through the administrator or owner of the Discord server where the Bot is being used.
+For independently operated instances, data deletion requests should be directed to the operator of that particular instance.
+
+Data Sharing:
+We do not sell or intentionally provide collected data to third parties.
+The instance covered by this Privacy Policy is self-hosted by its operator.
+
+Data Security:
+Reasonable measures are taken to protect the information stored by the instance covered by this Privacy Policy.
+However, no method of electronic storage or transmission is completely secure.
+
+Changes to This Privacy Policy:
+This Privacy Policy may be updated if the Bot's functionality or data practices change. Changes will be reflected on this page along with an updated "Last updated" date.
